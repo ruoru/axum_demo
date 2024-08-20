@@ -1,2 +1,2 @@
 # axum_demo
-This demo demonstrates how to use axum to create a simple RESTful API for managing a To-Do List. 
+This demo demonstrates how to use axum to create a simple RESTful API for managing a To-Do List. This example will demonstrate how to create, read, update, and delete to-do items. We will use Rust as the programming language and axum as the main web framework.
